@@ -4,5 +4,6 @@
     {
         //Here is a test class
         //And a new line has been added
+        //Now on origin/master brach
     }
 }
