@@ -7,5 +7,6 @@
         //Now on origin/master brach
         //Really did not like that 4th line
         //Now there is a 5th line and we are on differentBranch
+        //and now a 6th line
     }
 }
