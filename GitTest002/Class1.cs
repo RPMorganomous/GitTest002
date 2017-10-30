@@ -11,4 +11,8 @@
         //and now a 6th line
         //I really like this, but now I want to experiment...  So let's start a new branch.
     }  //So now time to abandon this crazy experiment.  For now...  But I had to manually copy this line into my merge. :(
+    
+    //Now on origin/master brach
+    //Really did not like that 4th line
+    //Now there is a 5th line and we are on differentBranch
 }
