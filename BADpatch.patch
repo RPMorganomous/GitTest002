@@ -1,0 +1,24 @@
+Index: GitTest002/Class1.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- GitTest002/Class1.cs	(revision fa7a49460344c239e9b9162521e81f10961e41e3)
++++ GitTest002/Class1.cs	(revision d27bf314d0fc64a83c51578090f58061347576ed)
+@@ -5,15 +5,5 @@
+         //Here is a test class
+         //And a new line has been added
+         //Now on origin/master brach
+-        //this has changed alot since then
+-        //Really did not like that 4th line
+-        //Now there is a 5th line and we are on differentBranch
+-        //and now a 6th line
+-        //I really like this, but now I want to experiment...  So let's start a new branch.
+-        //So what if I make this test line and call it Frankenstein.
+-        //Which also rymes, btw...
+-        //And now a commit.
+-        //with a push.
+-        
+     }
+ }
+\ No newline at end of file

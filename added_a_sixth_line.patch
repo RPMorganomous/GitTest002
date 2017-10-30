@@ -1,0 +1,15 @@
+Index: GitTest002/Class1.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- GitTest002/Class1.cs	(revision 3459f8ca43f2b0d015e211a827647e772baadcba)
++++ GitTest002/Class1.cs	(revision 05e6ce08d61985f8c7a882822803dc081beed24e)
+@@ -7,5 +7,6 @@
+         //Now on origin/master brach
+         //Really did not like that 4th line
+         //Now there is a 5th line and we are on differentBranch
++        //and now a 6th line
+     }
+ }
+\ No newline at end of file
