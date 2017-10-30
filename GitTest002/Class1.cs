@@ -1,4 +1,4 @@
-﻿namespace GitTest002
+﻿﻿namespace GitTest002
 {
     public class Class1
     {
@@ -10,11 +10,5 @@
         //Now there is a 5th line and we are on differentBranch
         //and now a 6th line
         //I really like this, but now I want to experiment...  So let's start a new branch.
-        //So what if I make this test line and call it Frankenstein.
-        //Which also rymes, btw...
-        //And now a commit.
-        //with a push.
-        //And now we are on Bride of Franken-Branch
-        
-    }
+    }/  //So now time to abandon this crazy experiment.  For now...  But I had to manually copy this line into my merge. :(
 }
